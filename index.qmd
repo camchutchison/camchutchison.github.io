@@ -1,0 +1,21 @@
+---
+title: "Caroline McHutchison"
+image: carolinemchutch.jpg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: Scholar
+      icon: bi-mortarboard
+      href: https://scholar.google.com/citations?user=9-uJ2QoAAAAJ
+    - text: Research Explorer
+      icon: bi-zoom-in
+      href: https://www.research.ed.ac.uk/en/persons/caroline-mchutchison
+    - text: Contact
+      icon: bi-envelope
+      href: mailto:caroline.mchutchison@ed.ac.uk
+---
+
+I am a neuropsychologist with over 10 years of experience in research and strong UK and International collaborations. I'm passionate about understanding the onset and progression of cognitive and behavioural dysfunction across the disease course in motor neuron disease, frontotemporal dementia, and other neurodegenerative disorders and how these relate to clinical factors including gene status and psychiatric symptoms.  I have experience in teaching undergraduate and postgraduate students methods of advanced neuropsychological assessment, statistical analysis, and statistical programming. I provides mentorship to MSc students on dissertation projects and training and support to research staff at collaborative sites in the USA and South Africa.  
+

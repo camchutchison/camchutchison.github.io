@@ -1,0 +1,20 @@
+project:
+  output-dir: docs
+  type: website
+
+website:
+  title: "Caroline McHutchison"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - outputs.qmd
+
+format:
+  html:
+    theme: 
+      light: [pulse, styles.scss]
+    toc: true
+
+
+
